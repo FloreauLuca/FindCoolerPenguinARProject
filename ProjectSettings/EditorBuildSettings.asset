@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Charilie/Charlie.unity
+    guid: 4a384e4e407a1b141b7da87c29ff818a
+  m_configObjects:
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 2b52056e343e1ae45a21b9d0c4e4a8d1,
+      type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 97cac1f0ec924994891bcfc121427a10,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 81b84c3e92bd0354d93d141ba43e1659,
+      type: 2}

@@ -1,0 +1,149 @@
+{
+    "m_SelectedDeviceId": "ce011821cd21e8760d",
+    "m_SelectedPackage": {
+        "deviceId": "ce011821cd21e8760d",
+        "name": "com.SylverCard.ArFoundationExp",
+        "processId": 30305,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "ce071827e860371805",
+            "name": "com.sec.android.app.launcher",
+            "processId": 14377,
+            "exited": false
+        },
+        {
+            "deviceId": "ce071827e860371805",
+            "name": "com.SylverCard.ArFoundationExp",
+            "processId": 16069,
+            "exited": true
+        },
+        {
+            "deviceId": "ce071827e860371805",
+            "name": "com.SylverCard.ArFoundationExp",
+            "processId": 17161,
+            "exited": true
+        },
+        {
+            "deviceId": "ce071827e860371805",
+            "name": "com.SylverCard.ArFoundationExp",
+            "processId": 18350,
+            "exited": true
+        },
+        {
+            "deviceId": "ce071827e860371805",
+            "name": "com.SylverCard.ArFoundationExp",
+            "processId": 26799,
+            "exited": true
+        },
+        {
+            "deviceId": "ce071827e860371805",
+            "name": "com.SylverCard.ArFoundationExp",
+            "processId": 28536,
+            "exited": true
+        },
+        {
+            "deviceId": "ce071827e860371805",
+            "name": "com.SylverCard.ArFoundationExp",
+            "processId": 29830,
+            "exited": false
+        },
+        {
+            "deviceId": "ce011821cd21e8760d",
+            "name": "com.sec.android.app.launcher",
+            "processId": 5374,
+            "exited": false
+        },
+        {
+            "deviceId": "ce011821cd21e8760d",
+            "name": "com.SylverCard.ArFoundationExp",
+            "processId": 13307,
+            "exited": true
+        },
+        {
+            "deviceId": "ce011821cd21e8760d",
+            "name": "com.SylverCard.ArFoundationExp",
+            "processId": 18107,
+            "exited": true
+        },
+        {
+            "deviceId": "ce011821cd21e8760d",
+            "name": "com.SylverCard.ArFoundationExp",
+            "processId": 22808,
+            "exited": true
+        },
+        {
+            "deviceId": "ce011821cd21e8760d",
+            "name": "com.SylverCard.ArFoundationExp",
+            "processId": 24685,
+            "exited": true
+        },
+        {
+            "deviceId": "ce011821cd21e8760d",
+            "name": "com.SylverCard.ArFoundationExp",
+            "processId": 27257,
+            "exited": true
+        },
+        {
+            "deviceId": "ce011821cd21e8760d",
+            "name": "com.SylverCard.ArFoundationExp",
+            "processId": 30305,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 255.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 0,
+        "Behavior": 1
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}
