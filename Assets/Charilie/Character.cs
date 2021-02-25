@@ -36,6 +36,7 @@ public class Character : MonoBehaviour
 
     public virtual void Eliminate()
     {
+        FindObjectOfType<GameManager>().IncreaseTimer();
         Destroy(gameObject);
     }
 }

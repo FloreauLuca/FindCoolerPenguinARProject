@@ -2,9 +2,9 @@
     "m_SelectedDeviceId": "ce011821cd21e8760d",
     "m_SelectedPackage": {
         "deviceId": "ce011821cd21e8760d",
-        "name": "com.SylverCard.ArFoundationExp",
-        "processId": 9978,
-        "exited": true
+        "name": "com.KiddyProd.FindTheCoolerPenguin",
+        "processId": 29973,
+        "exited": false
     },
     "m_SelectedPriority": 0,
     "m_KnownPackagesForSerialization": [
@@ -133,6 +133,24 @@
             "name": "com.SylverCard.ArFoundationExp",
             "processId": 9978,
             "exited": true
+        },
+        {
+            "deviceId": "ce011821cd21e8760d",
+            "name": "com.KiddyProd.FindTheCoolerPenguin",
+            "processId": 16772,
+            "exited": true
+        },
+        {
+            "deviceId": "ce011821cd21e8760d",
+            "name": "com.KiddyProd.FindTheCoolerPenguin",
+            "processId": 23131,
+            "exited": false
+        },
+        {
+            "deviceId": "ce011821cd21e8760d",
+            "name": "com.KiddyProd.FindTheCoolerPenguin",
+            "processId": 29973,
+            "exited": false
         }
     ],
     "m_Tags": {

@@ -45,8 +45,9 @@ public class GameManager : MonoBehaviour
         currentState = GameState.START;
     }
 
-    public void Play()
+    public void Play(int nbCharacter)
     {
+        minAnchor = nbCharacter;
         panelStart.SetActive(false);
         panelGenerating.SetActive(true);
         panelGame.SetActive(false);
@@ -113,5 +114,20 @@ public class GameManager : MonoBehaviour
             default:
                 break;
         }
+    }
+
+    public void IncreaseTimer()
+    {
+        timer += 10;
+        StopCoroutine(ChangeTextColor());
+        StartCoroutine(ChangeTextColor());
+    }
+
+    IEnumerator ChangeTextColor()
+    {
+        Color baseColor = timerText.color;
+        timerText.color = Color.red;
+        yield return new WaitForSeconds(1.0f);
+        timerText.color = baseColor;
     }
 }
