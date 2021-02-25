@@ -37,6 +37,7 @@ public class GameManager : MonoBehaviour
     {
         anchorManager = FindObjectOfType<ARAnchorManager>();
         arPlaneManager = FindObjectOfType<ARPlaneManager>();
+        arPlaneManager.requestedDetectionMode = PlaneDetectionMode.None;
         panelStart.SetActive(true);
         panelGenerating.SetActive(false);
         panelGame.SetActive(false);
@@ -51,6 +52,7 @@ public class GameManager : MonoBehaviour
         panelGame.SetActive(false);
         panelEnd.SetActive(false);
         currentState = GameState.GENERATING;
+        arPlaneManager.requestedDetectionMode = PlaneDetectionMode.Horizontal;
     }
 
     public void Launch()

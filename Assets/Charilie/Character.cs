@@ -4,14 +4,15 @@ using UnityEngine;
 
 public class Character : MonoBehaviour
 {
-    MeshRenderer meshRenderer;
-    Color myColor;
+    protected MeshRenderer meshRenderer;
+    protected Color myColor;
     bool isSelected;
     // Start is called before the first frame update
     void Start()
     {
-        meshRenderer = GetComponent<MeshRenderer>();
-        myColor = Random.ColorHSV(0, 1, 0, 1, 1, 1);
+        meshRenderer = GetComponentInChildren<MeshRenderer>();
+        //myColor = Random.ColorHSV(0, 1, 0, 1, 1, 1);
+        myColor = Color.white;
         meshRenderer.material.color = myColor;
     }
 

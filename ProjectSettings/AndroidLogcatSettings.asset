@@ -3,7 +3,7 @@
     "m_SelectedPackage": {
         "deviceId": "ce011821cd21e8760d",
         "name": "com.SylverCard.ArFoundationExp",
-        "processId": 18177,
+        "processId": 9978,
         "exited": true
     },
     "m_SelectedPriority": 0,
@@ -96,6 +96,42 @@
             "deviceId": "ce011821cd21e8760d",
             "name": "com.SylverCard.ArFoundationExp",
             "processId": 18177,
+            "exited": true
+        },
+        {
+            "deviceId": "ce011821cd21e8760d",
+            "name": "com.SylverCard.ArFoundationExp",
+            "processId": 17396,
+            "exited": false
+        },
+        {
+            "deviceId": "ce011821cd21e8760d",
+            "name": "com.SylverCard.ArFoundationExp",
+            "processId": 21147,
+            "exited": false
+        },
+        {
+            "deviceId": "ce011821cd21e8760d",
+            "name": "com.SylverCard.ArFoundationExp",
+            "processId": 26006,
+            "exited": true
+        },
+        {
+            "deviceId": "ce011821cd21e8760d",
+            "name": "com.SylverCard.ArFoundationExp",
+            "processId": 1246,
+            "exited": true
+        },
+        {
+            "deviceId": "ce011821cd21e8760d",
+            "name": "com.SylverCard.ArFoundationExp",
+            "processId": 6605,
+            "exited": true
+        },
+        {
+            "deviceId": "ce011821cd21e8760d",
+            "name": "com.SylverCard.ArFoundationExp",
+            "processId": 9978,
             "exited": true
         }
     ],
