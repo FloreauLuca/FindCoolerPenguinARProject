@@ -67,7 +67,7 @@ public class GameManager : MonoBehaviour
         anchorManager.AttachAnchor(arPlane, hitPose);
         anchorManager.anchorPrefab = penguinPrefab;
         arPlaneManager.requestedDetectionMode = PlaneDetectionMode.None;
-        FindObjectOfType<ARPointCloud>().enabled = false;
+        //FindObjectOfType<ARPointCloud>().enabled = false;
         panelStart.SetActive(false);
         panelGenerating.SetActive(false);
         panelGame.SetActive(true);
@@ -104,7 +104,7 @@ public class GameManager : MonoBehaviour
                 }
                 break;
             case GameState.PLAY:
-                arPlaneManager.SetTrackablesActive(false);
+                //arPlaneManager.SetTrackablesActive(false);
                 timer += Time.deltaTime;
                 timerText.text = "Timer : " + timer.ToString();
                 break;

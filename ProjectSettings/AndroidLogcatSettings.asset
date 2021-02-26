@@ -3,8 +3,8 @@
     "m_SelectedPackage": {
         "deviceId": "ce011821cd21e8760d",
         "name": "com.KiddyProd.FindTheCoolerPenguin",
-        "processId": 29973,
-        "exited": false
+        "processId": 30662,
+        "exited": true
     },
     "m_SelectedPriority": 0,
     "m_KnownPackagesForSerialization": [
@@ -151,6 +151,12 @@
             "name": "com.KiddyProd.FindTheCoolerPenguin",
             "processId": 29973,
             "exited": false
+        },
+        {
+            "deviceId": "ce011821cd21e8760d",
+            "name": "com.KiddyProd.FindTheCoolerPenguin",
+            "processId": 30662,
+            "exited": true
         }
     ],
     "m_Tags": {
